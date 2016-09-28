@@ -1,0 +1,12 @@
+PODS:
+  - RepeatString (0.3.0)
+
+DEPENDENCIES:
+  - RepeatString
+
+SPEC CHECKSUMS:
+  RepeatString: 2ae8190fd95cce6ca844c137e1fedd82c3a66c87
+
+PODFILE CHECKSUM: d7a6e8322e0d31d5fe7acee50622fe85252dcbda
+
+COCOAPODS: 1.0.1
